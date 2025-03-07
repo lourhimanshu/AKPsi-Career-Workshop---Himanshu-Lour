@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/Hmanshu/AKPsi-Career-Workshop---Himanshu-Lour/output/hello_world'
+relocations:     []
+...
